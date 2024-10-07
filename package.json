@@ -1,5 +1,5 @@
 {
-  "name": "@nullcoderealman/react-leaflet-markercluster",
+  "name": "@nullcode_realman/react-leaflet-markercluster",
   "version": "1.0.0",
   "description": "React wrapper of Leaflet.markercluster for react-laeflet",
   "main": "dist/index.js",
