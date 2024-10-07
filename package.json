@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React wrapper of Leaflet.markercluster for react-laeflet",
   "main": "dist/index.js",
-  "repository": "git@github.com:nullcodeRealmman/react-leaflet-markercluster.git",
+  "repository": "git@github.com:nullcodeRealman/react-leaflet-markercluster.git",
   "keywords": [
     "react",
     "leaflet",
